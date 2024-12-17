@@ -1,0 +1,7 @@
+These folders are empty, but this is where you would put resources for RenPy to find.
+there needs to be a list named alt_res:
+default alt_res = [
+# begin original 'defaults'
+"../res/default/bkgrd/abstract-7333176_1920.png"
+# ... add to list as needed
+]
